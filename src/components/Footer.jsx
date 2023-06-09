@@ -12,4 +12,5 @@ export const Footer = () => {
       </div>
     </div>
   );
+  return <div></div>;
 };
